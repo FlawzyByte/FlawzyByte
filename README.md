@@ -1,2 +1,3 @@
+https://dtm.uk/wasm/
 ![](https://github.com/FlawzyByte/FlawzyByte/blob/main/thefuck.gif)
-https://s3.us-east-005.backblazeb2.com/vx-underground-main/Papers/Web%20Malware/2024-08-10%20-%20Sneaking%20around%20with%20Web%20Assembly.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=005e2c099359ccf0000000004%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T140434Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fe455e90043d52e3246538ba9c2f657b4efebbd9fbfdfdd7b03036f1a342b809
+
